@@ -1,16 +1,19 @@
-# animated_cart
+## Flutter Animated Cart - Base Design
 
-A new Flutter project.
+We're building animated add to cart screen using flutter Animated List and we implementing drag & drop feature to remove items from cart.
 
-## Getting Started
+**Note - This repository only contain the base ui of this project, full code available only for patreon users**
 
-This project is a starting point for a Flutter application.
+[Watch Full Tutorial]()
 
-A few resources to get you started if this is your first Flutter project:
+### Follow us
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Subscribe us](https://www.youtube.com/c/CodeCrafts)
+- [Instagram](https://www.instagram.com/codecrafts)
+- [Facebook](https://www.facebook.com/codecraftsl)
+- [Patreon](https://www.patreon.com/codecrafts)
+- [Blog](https://codecrafts.dev/blog)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Preview
+
+![App UI](/preview.gif)
