@@ -4,7 +4,7 @@ We're building animated add to cart screen using flutter Animated List and we im
 
 **Note - This repository only contain the base ui of this project, full code available only for patreon users**
 
-[Watch Full Tutorial]()
+[Watch Full Tutorial](https://youtu.be/VAYYOA2ntx8)
 
 ### Follow us
 
